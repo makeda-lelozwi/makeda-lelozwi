@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**makeda-lelozwi/makeda-lelozwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Lelozwi Dumeko, currently studying front-end software development at [CodeSpace Academu](https://www.codespace.co.za/). I have recently chosen to change careers and pivot into tech. I am loving the learning experience and am eager to make great strides in the world of tech. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- insert the badges of HTML, CSS, and JavaScript with the git logo as well --!>
+
+- 🤔 I’m moving on to learn 
+
+<!-- insert the badges of the other things i want to learn -->
+
+
+- 📫 Where to reach me: 
+
+Email: lelodumeko2@gmail.com
+
+
+
+
