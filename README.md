@@ -13,13 +13,8 @@ I'm a recent humanities graduate from the University of Cape Town, passionate ab
 
 <!-- insert the badges of HTML, CSS, and JavaScript with the git logo as well --!>
 
-🤔 What I am eager to start learning:
 
 
-<!-- insert the badges of the other things i want to learn -->
-
-📫 Where to reach me: 
-Email: lelodumeko2@gmail.com
 
 
 
