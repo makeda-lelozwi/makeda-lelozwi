@@ -8,7 +8,7 @@ I'm a recent humanities graduate from the University of Cape Town, passionate ab
 
 #TechEnthusiast #FrontEndDeveloper #HumanitiesInTech #CapeTownLove 🌍✨
 
-🌱 I have learned:
+
 
 
 <!-- insert the badges of HTML, CSS, and JavaScript with the git logo as well --!>
