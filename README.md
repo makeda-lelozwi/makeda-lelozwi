@@ -1,4 +1,4 @@
-### Hi there, Lelo here 👋
+## Hi there, Lelo here 👋
 
 I'm a recent humanities graduate from the University of Cape Town, passionate about bridging the gap between creativity and technology. I have recently chosen to change careers and am currently studying front-end software development at [CodeSpace Academy](https://www.codespace.co.za/). I am loving the learning experience and am eager to make great strides in the world of tech! 
 
