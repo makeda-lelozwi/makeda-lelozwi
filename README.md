@@ -6,6 +6,9 @@ I'm a recent humanities graduate from the University of Cape Town, passionate ab
 
 🚀 Join me on this exhilarating adventure as I code my way through the ever-evolving tech landscape. Let's connect, collaborate, and build something extraordinary!
 
+Skills I have learned so far: 
+HTML    JavaScript   CSS    Tailwind    Git    VSCode    Responsive Design 
+
 #TechEnthusiast #FrontEndDeveloper #HumanitiesInTech #CapeTownLove #Joburger🌍✨
 
 
