@@ -14,7 +14,7 @@ Please feel free to reach out to me for any inquiries: <br>
 lelodumeko2@gmail.com <br>
 
 
-#TechEnthusiast #FrontEndDeveloper #HumanitiesInTech #CapeTownLove #Joburger🌍✨
+
 
 
 
