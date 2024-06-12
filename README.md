@@ -1,6 +1,6 @@
 # Hi there, Lelo here 👋
 
-I'm a software developer, passionate about bridging the gap between creativity, technical excellence and technology. 
+I'm a software developer, based in Cape Town and passionate about bridging the gap between creativity, technical excellence and technology. 
 
 💻 I bring a unique perspective shaped by my humanities background. 
 
